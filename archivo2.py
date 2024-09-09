@@ -1,1 +1,1 @@
-print("SOY OTRO ARCHIVO, HI!")
+print('SOY OTRO ARCHIVO, HI!')
